@@ -20,7 +20,11 @@
  
  <br>
  
-  <div align="center">Se quiser me contatar, segue minhas redes!</div> <br>
+  <div align="center">
+    <h1>
+      Se quiser me contatar, segue minhas redes!
+    </h1>
+  </div> <br>
  
 <div align="center"> 
   <a href="https://instagram.com/dev_eduardoborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
